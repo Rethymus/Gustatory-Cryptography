@@ -28,14 +28,6 @@ docker run -d -p 8888:8888 --name notebook quay.io/jupyter/pyspark-notebook:late
 - Spark SQL
 - Matplotlib, Seaborn
 
-"大纲格式：
-
-1. 题目详细说明
-2. 所用工具和算法设计
-3. 程序代码
-4. 运行结果截图
-5. 总结
-
 ## Contributors |  贡献者
 
 - [CLZZ](https://github.com/Zephyruston) 
