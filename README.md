@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Spark](https://img.shields.io/badge/Spark-3.0+-orange.svg)](https://spark.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > 通过先进的大数据分析算法，破译隐藏在海量食谱数据中的味觉偏好密码，为每个用户解锁专属的美食世界。
 
